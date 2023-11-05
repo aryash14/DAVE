@@ -1,6 +1,6 @@
 # Meet DAVE
 
-According to the World Health Organization, 2.2 billion people around the world live with a near or distance vision impairment. Over a quarter of this planet's population sees the world differently from how it should be, and this profoundly harms how people learn, walk, and work. Our team personally knows the impacts of vision impairment - three of our four members need to use contacts or glasses in daily life. Therefore, born out of our mutual interest in benefitting society, we developed DAVE - Digital Assistant for Vision Enhancement - to ease the burden of a vision-impaired lifestyle.
+According to the World Health Organization, 2.2 billion people around the world live with near or distant vision impairment. Over a quarter of this planet's population sees the world differently from how it should be, and this profoundly harms how people learn, walk, and work. Our team personally knows the impacts of vision impairment - three of our four members need to use contacts or glasses in daily life. Therefore, born out of our mutual interest in benefitting society, we developed DAVE - Digital Assistant for Vision Enhancement - to ease the burden of a vision-impaired lifestyle.
 
 ---
 
@@ -17,12 +17,12 @@ According to the World Health Organization, 2.2 billion people around the world 
 
 ## Team Members:
 
-- Shamar S:
+- Shamar Samuels:
   - Role: 
   - Education: Rensselaer Polytechnic Institute
   - Affiliation: Rensselaer Polytechnic Institute
 - Arya Shahv:
-  - Role: 
+  - Role: ML
   - Education: Rensselaer Polytechnic Institute
   - Affiliation: Rensselaer Polytechnic Institute
 - Zachary Fernandes:
