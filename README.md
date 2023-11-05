@@ -8,7 +8,7 @@ According to the World Health Organization, 2.2 billion people around the world 
 1. Clone the repository to your computer
 2. Find a webcam with a microphone
 3. Attach this webcam to a pair of glasses
-4. Run the program: `python DAVE.py`
+4. Run the program: `python3 DAVE.py`
 5. Say "DAVE" to summon the assistant
 6. Ask to describe what it sees or ask a question about the image
 7. Listen to DAVE's response
