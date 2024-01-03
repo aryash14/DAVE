@@ -21,7 +21,7 @@ According to the World Health Organization, 2.2 billion people around the world 
   - Role: 
   - Education: Rensselaer Polytechnic Institute
   - Affiliation: Rensselaer Polytechnic Institute
-- Arya Shahv:
+- Arya Shahvar:
   - Role: ML
   - Education: Rensselaer Polytechnic Institute
   - Affiliation: Rensselaer Polytechnic Institute
